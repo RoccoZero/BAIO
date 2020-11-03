@@ -2,6 +2,8 @@
 
 BAIO (*Beminee All in One*) is a All-in-One hero script solution, written for [Ensage](https://www.ensage.io/). 
 
+You can find Assembly Discussion topic [here](https://www.ensage.io/discussion/1554/baio-all-in-one-combo-assembly#latest)
+
 Before, it was provided as a closed source software by a purchasable lifetime license. It sold almost a thousand copies, received well over +1200 updates and estimated to ruin around a million games. Since Ensage is shutdown, no reason to keep it closed source anymore.
 
 It's provided as is, no support will be given. You are free to do whatever you want with this code as long as you follow GNU General Public License v3.0 requirements, a copy of the license is provided with this project.
