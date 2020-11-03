@@ -8,7 +8,7 @@ It's provided as is, no support will be given. You are free to do whatever you w
 
 # Project 
 
-BAIO consists of 2 project that are connected to each other.
+BAIO consists of 2 projects that are connected to each other.
 
 BAIO project contains, pre-made solutions for specific heroes, often provide a precise combo with premade casting order.
 
